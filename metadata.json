@@ -1,0 +1,6 @@
+{
+  "name": "Klinik Medika Sehat - Portal Layanan & CMS Admin",
+  "description": "Company Profile resmi Klinik Medika Sehat dengan katalog layanan medis, jadwal dokter, pendaftaran janji temu online, dan sistem manajemen konten (CMS) klinik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
